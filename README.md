@@ -6,6 +6,8 @@ It is the second stage of an earlier Smart Greenhouse project. This version adds
 
 ![CAD render of the full system](cad/03-isometric-reservoir-side.png)
 
+**Demo video:** https://canva.link/b4s42ph4bcqoklf
+
 ## Why it rotates
 
 In a static vertical rack, plants near the light get far more of it than the plants below. Here two plant racks hang from a pair of large gears and sweep slowly through a 180 degree arc, so every plant spends equal time near the light. The racks pivot freely on their hangers, so gravity keeps them upright at every angle.
