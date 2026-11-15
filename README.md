@@ -25,6 +25,8 @@ The boards talk over UART through a logic-level converter, because the UNO runs 
 
 A separate Arduino UNO drives the rack rotation.
 
+![Functional block diagram](docs/functional-block-diagram.png)
+
 ![Control electronics](photos/control-electronics.jpg)
 
 ## Subsystems
@@ -75,6 +77,7 @@ A Blynk dashboard shows live light, temperature, humidity, EC, pH, water tempera
 | Path | Contents |
 |---|---|
 | `docs/Design-Report.pdf` | Full design report: circuit analysis, mechanical calculations, bill of materials, Blynk screens and the circuit schematic |
+| `docs/functional-block-diagram.png` | Functional block diagram: power, actuators, sensors and the UART bridge |
 | `cad/` | 13 CAD renders: overall views, drive train, axle and bearing, rack pivot and hose routing |
 | `photos/` | Photos of the built system |
 
